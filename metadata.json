@@ -1,0 +1,6 @@
+{
+  "name": "RepoSpace",
+  "description": "AI repository intelligence system that scans and analyzes GitHub repositories to understand their structure, implementation details, and answer any technical questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
